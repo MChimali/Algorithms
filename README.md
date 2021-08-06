@@ -1,10 +1,10 @@
 ## Why Algorithms? ##
 
-Algorithms are everywhere. No matter where you look, there is always a pattern that can be described in a set of given rules. That is why they are so important. Because of algorithms humans can create applications, no matter the scale, that will perform the way intended. All thanks to algorithms.
+Algorithms are everywhere. No matter where you look, there is always a pattern that can be described in a set of given rules. Because of algorithms humans can create applications, no matter the scale, that will perform the way intended. All thanks to algorithms.
 
-The difficulty and the beauty of algorithms, to me, is that to create them, it is required to divide the pattern in the smallest bits so when working together, they give the expected result. It is like making soup. You do not put all the elements on the pan right away. You start with one of them that modifies the previous state (empty pan) and in each iteration, you modify the result by adding a new topping or heating it up, by instance. Once the last iteration is concluded, the recipe is supposed to return a nice soup.
+The difficulty and the beauty of algorithms, to me, is that to create them, it is required to divide the pattern in the smallest bits so when working together, they give the expected result. It is like cooking food with a recipe. You do not put all the elements on the pan right away. You start with one of them that modifies the previous state (empty pan) and in each iteration, you modify the result by adding a new topping or heating it up, by instance. Once the last iteration is concluded, the recipe is supposed to return a nice meal.
 
-Algorithms are recipes for a behaviour. Perform this action over this element I am providing you with and return me the result, so I can use it somewhere else.
+Algorithms are recipes for a behaviour. Perform this action over this element I am providing you with and return me the result, so I can do something with it.
 
 Programming languages provide us with a set of statements to create algorithms. They may be divided into the following groups.
 
